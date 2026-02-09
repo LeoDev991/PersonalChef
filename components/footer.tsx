@@ -74,7 +74,7 @@ export default function Footer() {
         {/* Divider + Copyright */}
         <div className="mt-12 pt-8 border-t border-border">
           <p className="text-xs text-muted-foreground text-center">
-            {`\u00A9 ${new Date().getFullYear()} Chef Vinicius Pontes Martins. Todos os direitos reservados.`}
+            {`\u00A9 ${new Date().getFullYear()} Chef Vinicius Pontes Martin. Todos os direitos reservados.`}
           </p>
         </div>
       </div>

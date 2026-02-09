@@ -17,9 +17,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Chef Vinicius Pontes Martins | Personal Chef",
+  title: "Chef Vinicius Pontes Martin | Personal Chef",
   description:
-    "Gastronomia premium e experiencias exclusivas. Jantares privados, eventos gastronomicos e experiencias personalizadas pelo Chef Vinicius Pontes Martins.",
+    "Gastronomia premium e experiencias exclusivas. Jantares privados, eventos gastronomicos e experiencias personalizadas pelo Chef Vinicius Pontes Martin.",
 };
 
 export const viewport: Viewport = {
