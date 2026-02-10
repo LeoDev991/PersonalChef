@@ -46,7 +46,7 @@ export default function Contact() {
             {"\"A cozinha e o coracao de toda celebracao.\""}
           </p>
           <p className="text-xs uppercase tracking-widest text-primary mt-3">
-            Chef Vinicius Pontes Martin
+            Chef Vinicius Pontes Martins
           </p>
         </div>
       </div>

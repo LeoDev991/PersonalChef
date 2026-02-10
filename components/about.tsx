@@ -9,7 +9,7 @@ export default function About() {
           <div className="relative aspect-[3/4] lg:aspect-[4/5] overflow-hidden">
             <Image
               src="/images/chef.jpg"
-              alt="Chef Vinicius Pontes Martin"
+              alt="Chef Vinicius Pontes Martins"
               fill
               className="object-cover"
               quality={85}
@@ -23,7 +23,7 @@ export default function About() {
               Sobre o Chef
             </p>
             <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl text-foreground mb-6 leading-tight text-balance">
-              Vinicius Pontes Martin
+              Vinicius Pontes Martins
             </h2>
             <div className="w-12 h-px bg-primary mb-8" />
             <div className="space-y-5 text-muted-foreground leading-relaxed">
