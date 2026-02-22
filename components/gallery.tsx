@@ -49,7 +49,6 @@ export default function Gallery() {
                 alt={image.alt}
                 fill
                 className="object-cover transition-transform duration-700 group-hover:scale-110"
-                quality={80}
               />
               <div className="absolute inset-0 bg-background/0 group-hover:bg-background/40 transition-colors duration-500" />
               <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-500">
@@ -85,7 +84,6 @@ export default function Gallery() {
               alt={images[selectedImage].alt}
               fill
               className="object-contain"
-              quality={95}
             />
           </div>
 
