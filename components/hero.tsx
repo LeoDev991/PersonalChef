@@ -13,7 +13,6 @@ export default function Hero() {
         fill
         className="object-cover"
         priority
-        quality={90}
       />
 
       {/* Dark overlay */}

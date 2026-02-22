@@ -12,7 +12,6 @@ export default function About() {
               alt="Chef Vinicius Pontes Martins"
               fill
               className="object-cover"
-              quality={85}
             />
             <div className="absolute inset-0 border border-primary/20" />
           </div>
